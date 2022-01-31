@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import "./list.css";
+import "./list.css"
 
 
 export default function List() {
